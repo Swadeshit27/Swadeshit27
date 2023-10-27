@@ -10,8 +10,8 @@
 <p>
 <img align="right"  alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 <h1 align="left">💫 About Me :</h1>
-🏫 I'm a 2nd Year student of Jalpaiguri Government Engineering College (Autonomous ) in IT department <br>
-🔭 I’m Currently learning DSA & WEB DEVELOPMENT <br>
+🏫 I'm a prefinal Year student of Jalpaiguri Government Engineering College (Autonomous ) in IT department <br>
+🔭 I’m a full stack MERN developer and also I learning DSA. <br>
 🌱 I’m currently Exploring Open Source Contribution.<br>
 📫 How to reach me: swadeshpal2002@gmail.com <br>
 😄 Pronouns: He/His<br>
@@ -34,14 +34,29 @@
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" /> &nbsp
 <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" />&nbsp 
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" />&nbsp
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="python" width="40" />&nbsp
-<img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="python" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40"/>&nbsp 
+<img src="https://skillicons.dev/icons?i=js" alt="java script" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nextjs" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=express" alt="nextjs" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=mongodb" alt="nextjs" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=github" alt="html5" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=gcp" alt="html5" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS CODE" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" />&nbsp
 </p>
 
 # 💻 Coding Platforms:
