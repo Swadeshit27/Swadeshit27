@@ -1,17 +1,18 @@
+![professional bg](https://github.com/Swadeshit27/Swadeshit27/assets/97722877/ba3e4e59-9675-4eb0-8263-a835d09c396f)
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Swadesh Pal </h1> 
 </div>
-<h3 align="center">A passionate frontend developer and Competitive Programmer from India</h3>
+<h3 align="center">A passionate Full stack MERN Developer and Competitive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshit27&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshit27" /></p>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=Twitter&logoColor=white&color=0D76A8)](https://twitter.com/Swadesh_Pal27)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/swadesh-pal-204036228/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/swadesh-pal/)
 <p>
-<img align="right"  alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<img align="right"  alt="Coding" width="400" height="300" src="https://kamsoft.co/assets/images/design-uiux-services.gif"/>
 <h1 align="left">💫 About Me :</h1>
 🏫 I'm a prefinal Year student of Jalpaiguri Government Engineering College (Autonomous ) in IT department <br>
-🔭 I’m a full stack MERN developer and also I learning DSA. <br>
+🔭 I’m a full stack MERN developer and also I have a good knowledge of DSA. <br>
 🌱 I’m currently Exploring Open Source Contribution.<br>
 📫 How to reach me: swadeshpal2002@gmail.com <br>
 😄 Pronouns: He/His<br>
@@ -22,7 +23,7 @@
 
 <p align="left">
 <a href="https://twitter.com/Swadesh_Pal27" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Swadesh_Pal27" height="40" width="40" /></a>&nbsp
-<a href="https://www.linkedin.com/in/swadesh-pal-204036228/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="swadesh-pal-204036228" height="40" width="40" /></a>&nbsp
+<a href="https://www.linkedin.com/in/swadesh-pal/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="swadesh-pal-204036228" height="40" width="40" /></a>&nbsp
 <a href="https://www.instagram.com/_swadesh_pal/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="_swadesh_pal" height="40" width="40" /></a>&nbsp
 <a href="https://www.facebook.com/profile.php?id=100073559185519" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Swadesh Pal" height="40" width="40" /></a>&nbsp
 <a href="https://discord.gg/Swadesh Pal#1603" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Swadesh Pal#1603" height="40" width="40" /></a>
