@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Swadesh Pal </h1> 
 </div>
-<h3 align="center">A passionate Full stack MERN Developer and Competitive Programmer from India</h3>
+<h3 align="center">A passionate Full stack Web and React Native Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshit27&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshit27" /></p>
 
@@ -11,8 +11,8 @@
 <p>
 <img align="right"  alt="Coding" width="400" height="300" src="https://kamsoft.co/assets/images/design-uiux-services.gif"/>
 <h1 align="left">💫 About Me :</h1>
-🏫 I'm a prefinal Year student of Jalpaiguri Government Engineering College (Autonomous ) in IT department <br>
-🔭 I’m a full stack MERN developer and also I have a good knowledge of DSA. <br>
+🏫 I'm a final Year student of Jalpaiguri Government Engineering College (Autonomous ) in IT department <br>
+🔭 I’m a full stack web and react native developer and also I have a good knowledge of DSA. <br>
 🌱 I’m currently Exploring Open Source Contribution.<br>
 📫 How to reach me: swadeshpal2002@gmail.com <br>
 😄 Pronouns: He/His<br>
@@ -57,7 +57,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS CODE" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" />&nbsp
 <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" />&nbsp
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" />&nbsp
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" />&nbsp 
 </p>
 
 # 💻 Coding Platforms:
